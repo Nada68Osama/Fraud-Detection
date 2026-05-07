@@ -3,4 +3,4 @@ pandas
 matplotlib
 numpy
 scikit-learn
-xgboost> =2.0.0
+xgboost>=2.0.0
